@@ -43,7 +43,7 @@ public class App extends Application {
         // эл-ты по центру
         grid.setAlignment(Pos.CENTER);
 
-        // Добавление элементов в сетку
+        // добавл. эл-ов в сетку
         grid.add(textField1, 0, 0);
         grid.add(toggleButton, 1, 0);
         grid.add(textField2, 2, 0);
