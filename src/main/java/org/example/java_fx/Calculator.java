@@ -58,7 +58,7 @@ public class Calculator extends Application {
                 "0", ".", "=", "+"
         };
 
-        int row = 2;    // нач. с 3го ряда (1ый занят под историю и дисплей)
+        int row = 2;     // нач. с 3го ряда (1ый занят под историю и дисплей)
         int col = 0;
 
         for (String label : buttonLabels) {
