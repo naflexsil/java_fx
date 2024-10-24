@@ -124,5 +124,3 @@ public class Restaurant extends Application {
         launch(args);
     }
 }
-
-
